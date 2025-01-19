@@ -6,7 +6,7 @@ Then, everything changed. An unexplainable event shattered the *Azerite Stone* i
 
 Six great cities arose from the chaos, each touched by the cosmic fragments:
 
-**Luminara**, **Nyxara**, **Aetheris**, **Ignarok**, **Thalassa**, **Noctis**
+**Luminara**, **Nyxara**, **Aetheris**, **Emberfall**, **Thalassa**, **Noctis**
 
 While these cities represent civilization’s resilience, their foundations tremble under the weight of the unknown. One of the largest *Azerite* fragments has fallen into the hands of *Maltherion*, a being consumed by ambition and darkness. With it, he twists the energies of *Eryndor*, spreading corruption and plotting to reunite the shards for his own ascension.
 
