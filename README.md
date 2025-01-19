@@ -1,7 +1,5 @@
 **AZERITE: TRACES OF CORRUPTION**
 
-### **The Beginning of the Story**
-
 At the dawn of the universe, at the heart of all creation, there existed an essence: the *Azerite Stone*, a source of limitless energy, the summary of wisdom, and the wellspring of creative power. This stone was an integral part of the fabric of the cosmos, and its presence maintained balance across existence. Yet, the very nature of *Azerite* was too ancient and intricate to be aware of the balance it sustained.
 
 One fateful night, an unexplained event altered everything. A vibration echoed from the depths of the universe, shattering the *Azerite Stone* into countless fragments. This cataclysm unleashed the cosmic energy within, sending shockwaves rippling across the universe. The devastating impact was profoundly felt on a planet later called *Earth*: mountains rose, oceans receded, forests were born and then erased.
