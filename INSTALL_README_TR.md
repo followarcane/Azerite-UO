@@ -4,7 +4,7 @@
 Launcher'ı indirdikten sonra, güvenlik için hash değerini kontrol edebilirsiniz:
 
 - Dosya: `Azerite UO Launcher-Setup.exe`
-- SHA256: `3AFEBDFD7F23ECA6522D538095403DB0B830BC1437FA9C5EDD9704AFC2E6F9A3`
+- SHA256: `1819F3F1ACC086129BE0BE3CC4939036CA44EA97E6C4C376FE2B59CE036A5EF9`
 
 Hash değerini kontrol etmek için:
 1. PowerShell'i yönetici olarak açın
